@@ -5,7 +5,12 @@ Qn 1:
 
 LifeCycle of SpringBean in an ApplicationContext.
 
+![Spring Lifecycle](https://github.com/user-attachments/assets/93a53da3-7a4f-4f8b-bf17-6a2de2787f64)
+
+
 Ans :
+
+![image](https://github.com/user-attachments/assets/06582cad-a0dd-47ff-a48b-e17bd65ab5a2)
 
 1. Context is created.
 2. Bean is created.
